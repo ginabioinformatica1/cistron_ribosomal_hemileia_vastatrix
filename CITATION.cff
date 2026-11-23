@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usa estos datos, cítelos como se indica."
+title: "Identificación de regiones ribosomales conservadas en Hemileia vastatrix: datos y documentación del análisis bioinformático"
+authors:
+  - family-names: "Hernández Ruiz"
+    given-names: "Ginamaria"
+    affiliation: "Instituto Tecnológico Metropolitano"
+date-released: "2026-11-22"
+license: CC0-1.0
+repository-code: "https://github.com/ginabioinformatica1/cistron_ribosomal_hemileia_vastatrix"
