@@ -37,4 +37,8 @@ CC0 1.0 Universal (ver `LICENSE`).
 
 ## Cómo citar
 
-Ver `CITATION.cff`.
+Ver `CITATION.cff` o citar el archivo depositado en Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24507239.svg)](https://doi.org/10.5281/zenodo.24507239)
+
+Hernández Ruiz G. Cistrón ribosomal de Hemileia vastatrix: datos y documentación del análisis bioinformático [conjunto de datos]. Zenodo; 2026. https://doi.org/10.5281/zenodo.24507239
